@@ -1,4 +1,4 @@
-## teacher-library
+# teacher-library
 
 An extremely basic check-in/checkout system to track books and students.
 
@@ -6,6 +6,9 @@ Allows teachers to enter students, books, and allow them to checkout and check-i
 
 Built in django, on Python 3.6.
 
-# Python Requirements
+## Python Requirements
 * controlcenter
 * django-suit
+
+## Getting Started
+
