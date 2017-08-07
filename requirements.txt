@@ -1,0 +1,3 @@
+django-fluent-dashboard
+django-tables2
+django-controlcenter
